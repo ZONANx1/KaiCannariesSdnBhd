@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_kaicannariestradingsdnbhd._a174366
+</name>
+</assembly>
+<members>
+<member name="T:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.background_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.background_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Background_for_KaiCannaries_Part_iii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Background_for_KaiCannariesSdnBhd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Background_mantap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Background_Resize_KaiCannaries">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.BackgroundKaiCannaries">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Copy_Right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Copy_Right1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Copy_Right2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.copyrgiht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Copyright">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned_Background_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned_Background_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Food_Canned_Background_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.FTSM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.jhnb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.New_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.New_Background_ii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.New_Background_iii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Part_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.Resize_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_kaicannariestradingsdnbhd._a174366.My.Resources.Resources.the_true_menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
